@@ -15,7 +15,7 @@
 
 ---
 
-## 🚀 The Product
+## 🚀 About
 
 **Encrypted Clipboard Manager** is a privacy-first, local-first application designed for developers, security professionals, and anyone who values their data's integrity. It securely manages your clipboard history and synchronizes it across all your devices using state-of-the-art encryption.
 
@@ -59,10 +59,6 @@ Developed and maintained by a team of security enthusiasts.
 - 👨‍💻 **Lead Developer**: [Developer GitHub](https://github.com/nowshad-hossain-rahat) | [Developer X](https://x.com/nhrdev)
 
 ---
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=encrypted-clipboard-manager&show_icons=true&theme=tokyonight&hide_border=true&title_color=00DC82" alt="Product Stats" />
-</div>
 
 <div align="center">
   <sub>© 2026 Encrypted Clipboard Manager. Built for the privacy-conscious.</sub>
